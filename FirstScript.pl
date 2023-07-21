@@ -1,6 +1,4 @@
-#!usr/TerminalWork/lib/perl5/
-#/Users/andrewlewis/TerminalWork/lib/perl5/5.16.2/man/man3/Bio::Tools::IUPAC.3pm
-#use diagnostics;
+
 use Bio::PrimarySeq;
 use Bio::Tools::IUPAC;
 use strict;
